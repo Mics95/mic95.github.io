@@ -1,0 +1,70 @@
+#Contenedor{
+    background-color: cadetblue;
+    position: relative;
+    width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+    font-family: 'Golos Text', sans-serif;
+}
+#uno{
+    background-color:rgba(117, 216, 241, 0.593);
+    width: auto;
+}
+#imagen{
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+}
+#imagen1{
+    position: relative;
+    left: -36px;
+    top: 11px;
+    border-radius: 105px;
+    width: 50%;
+}
+#nombre{
+
+    position: relative;
+    left: 18px;
+    top: -40px;
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    font-size: x-large;
+}
+#datos{
+    background-color:rgb(160, 224, 224) ;
+    display: inline;
+    float:left;
+    width: 31%;
+    margin: auto;
+    text-align: justify;
+    height: 200%
+}
+#datos2{
+    background-color: rgb(184, 229, 248);
+    display: inline;
+    float: left;
+    width: 69%;
+    margin: auto;
+    text-align: justify;
+}
+#datos21{
+   position: relative;
+   left: 18px;
+   width: 90%;
+
+}
+#datosL{
+position: relative;
+width: 80%;
+display: inline-block;
+left: 13px;
+}
+.titulos{
+    border-bottom: solid white 3px;
+    padding-bottom: 14px;
+    border-radius: 66px;
+    text-align: center;
+}
